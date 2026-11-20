@@ -1,8 +1,8 @@
 # neon-bay
 
-[![make.fun](https://make.fun/badge/bounty/gta6-01)](https://make.fun/bounty/gta6-01)
-[![make.fun](https://make.fun/badge/owner/Fakeriz)](https://make.fun/profile/Fakeriz)
-[![make.fun](https://make.fun/badge/repo/Fakeriz/neon-bay)](https://github.com/Fakeriz/neon-bay)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Fakeriz/neon-bay/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Fakeriz/neon-bay/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Neon Bay** is an original 2D top-down open-world crime game for the [gta6-01](https://make.fun/bounty/gta6-01) bounty on make.fun — a sun-soaked coastal city, in the spirit of GTA 6, built entirely from scratch: no Rockstar names, maps, characters or assets anywhere.
 
